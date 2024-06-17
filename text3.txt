@@ -1,5 +1,0 @@
-this text 3 txt file
-M -  means modified after...this when shown 
-do this in the terminal
-        git add text3.txt
-        git commit -m "modied folder is being taken from the stage to github folder"
